@@ -2,7 +2,8 @@
 A demo of Sacramento State's rage engine.
 
 Make sure your java1.8 jdk and jre are in your environmental variables.
-run the run.bat file
+
+Run the run.bat file
 
 # Minimum System Requirements
   • Java (JDK/JRE) 1.8 or later (64-bit)
