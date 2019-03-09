@@ -3,6 +3,10 @@ A demo of Sacramento State's rage engine.
 
 Make sure your java1.8 jdk and jre are in your environmental variables.
 
+Need atleast a keyboard to be connected to the computer.
+
+Supports both a keyboard and a controller (game pad).
+
 Run the run.bat file
 
 # Minimum System Requirements
