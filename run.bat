@@ -1,0 +1,4 @@
+javac -classpath ".;\javagaming\jinput\lib;a2;myGameEngine\*;javagaming\jbullet\jbullet.jar;javagaming\jinput\jinput.jar;javagaming\rage165\ray.jar;javagaming\vecmath\vecmath.jar;javagaming\jogamp-all-platforms\jar\gluegen-rt.jar;javagaming\jogamp-all-platforms\jar\jogl-all.jar" a2\*.java
+javac -classpath ".;\javagaming\jinput\lib;a2;myGameEngine\*;javagaming\jbullet\jbullet.jar;javagaming\jinput\jinput.jar;javagaming\rage165\ray.jar;javagaming\vecmath\vecmath.jar;javagaming\jogamp-all-platforms\jar\gluegen-rt.jar;javagaming\jogamp-all-platforms\jar\jogl-all.jar" myGameEngine\*.java
+java  -Djava.library.path=javagaming\jinput\lib -Dsun.java2d.d3d=false -cp ".;\javagaming\jinput\lib;a2;myGameEngine\*;javagaming\jbullet\jbullet.jar;javagaming\jinput\jinput.jar;javagaming\rage165\ray.jar;javagaming\vecmath\vecmath.jar;javagaming\jogamp-all-platforms\jar\gluegen-rt.jar;javagaming\jogamp-all-platforms\jar\jogl-all.jar" -Xdiag a2.MyGame
+pause
