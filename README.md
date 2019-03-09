@@ -9,5 +9,6 @@ Run the run.bat file
   • Java (JDK/JRE) 1.8 or later (64-bit)
 
 # Licensing
+javagaming folder contains free software coded by others.
 
 Game engine (Rage) used is a free software available at: https://gitlab.com/ghost-in-the-zsh/rage#rage
